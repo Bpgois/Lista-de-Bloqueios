@@ -1,0 +1,4 @@
+0.0.0.0 googlevideo.com
+0.0.0.0 doubleclick.net
+0.0.0.0 googleapis.com
+0.0.0.0 googleusercontent.com
